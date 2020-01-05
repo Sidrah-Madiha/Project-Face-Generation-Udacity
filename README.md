@@ -2,7 +2,7 @@
 This is the fourth project of Udacity's Deep Learning Nanodegree Program (Using a DCGAN on the CelebA dataset to generate images of new and realistic human faces.)
 
 # Project Overview: Face Generation using DCGAN
-n this project, I have defined and trained a DCGAN on a dataset of faces. My goal was to  get a generator network to generate new images of faces that look as realistic as possible! Similar to this https://www.thispersondoesnotexist.com/
+In this project, I have defined and trained a DCGAN on a dataset of faces. My goal was to  get a generator network to generate new images of faces that look as realistic as possible! Similar to this https://www.thispersondoesnotexist.com/
 
 At the end of the project, I was able to visualize the results of my trained Generator to see how it performsed; my generated samples looked like fairly realistic faces with small amounts of noise.
 
